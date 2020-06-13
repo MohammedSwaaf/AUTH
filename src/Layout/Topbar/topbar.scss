@@ -1,0 +1,18 @@
+.drop{
+    .userName{
+        color: rgba(255,255,255,.75);
+    }
+}
+.navbar {
+    padding: 0 1rem;
+    .nav-link {
+        display: block;
+        padding: 20px 1rem;
+       
+    }
+    .active{
+        color: #fff !important;
+        background: #000 !important;
+    }
+}
+
